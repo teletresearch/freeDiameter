@@ -2,3 +2,6 @@ usr/lib/freeDiameter/dbg_rt.fdx
 usr/lib/freeDiameter/test_app.fdx
 usr/lib/freeDiameter/test_sip.fdx
 usr/lib/freeDiameter/test_netemul.fdx
+usr/lib/freeDiameter/dbg_msg_dumps.fdx
+usr/lib/freeDiameter/dbg_msg_timings.fdx
+usr/lib/freeDiameter/dbg_loglevel.fdx
